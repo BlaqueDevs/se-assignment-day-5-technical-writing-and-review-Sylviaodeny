@@ -1,6 +1,5 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-For tech experts, you can dive into more technical details, use industry-specific jargon, and assume a higher level of understanding. Providing in-depth explanations, technical specifications, and detailed examples can keep tech experts engaged and satisfied with the information presented.
 
 When communicating with regular folks or non-technical audiences, it's essential to simplify complex technical concepts, avoid using excessive jargon, and focus on practical applications and real-world examples. Breaking down information into easily digestible chunks, using analogies, visuals, and everyday language can help ensure that the audience grasps the key points without feeling overwhelmed.
 
